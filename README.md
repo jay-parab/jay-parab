@@ -1,15 +1,14 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jay Parab</h1>
-<h3 align="center">Data & Business Analyst | Passionate about Insights, Automation & Problem-Solving</h3>
+<h3 align="center">Data & Business Analyst</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 📊 **Senior Analyst & Data Enthusiast** – Skilled in SQL, Python, R, and BI tools like Tableau & Power BI.
-- 🔍 **Turning Chaos into Clarity** – Passionate about data storytelling and process automation.
-- 🌱 **Currently Learning** – Advanced Data Visualization & Cloud Data Platforms.
-- 🤝 **Looking to Collaborate On** – Data analytics, business intelligence, and automation projects.
-- 🎯 **Portfolio** – Check out my work **[here](https://drive.google.com/file/d/1hHrmz10rzlQ458s89prSnh2RXSXwWwls/view?usp=sharing)**
+- 🔍 **Turning Chaos into Clarity** – Passionate about Data Storytelling and Process Automation.
+- 🌱 **Currently Learning** – Machine Learning & Cloud Data Platforms.
+- 🤝 **Looking to Collaborate On** – Data Analytics, Business Intelligence, and Automation Projects.
 - 📩 **Let's Connect!** – Drop me an email at **jay.r.parab@gmail.com**
 
 ---
@@ -18,7 +17,7 @@
 
 ### 📊 **Technical Skills**
 - **Data Analysis** | **Business Intelligence** | **Process Automation** | **Database Management**
-- **Statistical Analysis** | **ETL Pipelines** | **Stakeholder Communication**
+- **Statistical Analysis** | **ETL Pipelines** | **Data Visualization** | **Stakeholder Communication**
 
 ### 🛠 **Tools & Technologies**
 <p align="left"> 
@@ -35,8 +34,6 @@
 ## 📂 Featured Projects
 
 - 📌 **Amazon Prime Video Dashboard** – Interactive BI dashboard built using Tableau **[GitHub](#)**
-- 📌 **Automated Reporting with Excel VBA & Python** – Reduced manual efforts by 30% **[GitHub](#)**
-- 📌 **ETL Pipeline for Business Insights** – Optimized data processing using Alteryx & SQL **[GitHub](#)**
 
 ---
 
