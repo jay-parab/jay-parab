@@ -34,6 +34,7 @@
 ## 📂 Featured Projects
 
 - 📌 **Amazon Prime Video Dashboard** – Interactive BI dashboard built using Tableau **[GitHub](#)**
+- 📌 **Real Time Face Mask Detection** – Engineering Final Year Project in Computer Vision **[GitHub](#)**
 
 ---
 
