@@ -34,6 +34,7 @@
 ## 📂 Featured Projects
 
 - 📌 **Amazon Prime Video Dashboard** – Interactive BI dashboard built using Tableau **[GitHub](https://github.com/jay-parab/APV_Tableau)**
+- 📌 **Uber Trip Analysis Dashboard** – Interactive BI dashboard built using PowerBI **[GitHub](https://github.com/jay-parab/Uber_Trip_Analysis/blob/main/README.md)**
 - 📌 **Real Time Face Mask Detection** – Engineering Final Year Project in Computer Vision **[GitHub](https://github.com/jay-parab/Realtime_FaceMask_Detection)**
 
 ---
